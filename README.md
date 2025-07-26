@@ -112,5 +112,4 @@ Una plataforma soberana, legal y moderna, pensada para el Ecuador que decide ava
 ---
 
 **Sitio oficial:** [https://sgdox.com](https://sgdox.com)  
-**Desarrollado por:** [https://floydu.com](https://floydu.com)  
 **Contacto:** info@floydu.com
