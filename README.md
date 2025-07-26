@@ -73,7 +73,7 @@ SGDOX digitaliza y controla todo el ciclo de vida documental de una institución
 - 🛠️ **Actualizaciones activas y roadmap claro**.
 - 📈 **Hecho para instituciones que quieren crecer, no adaptarse a lo viejo**.
 
-> SGDOX no es solo un reemplazo: es la evolución natural de la gestión documental en Ecuador.
+## SGDOX no es solo un reemplazo: es la evolución natural de la gestión documental en Ecuador.
 
 ---
 
