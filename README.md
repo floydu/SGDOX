@@ -1,4 +1,4 @@
-# SGDOX - Sistema de Gestión Documental en Ecuador
+# SGDOX - Sistema de Gestión Documental
 
 **SGDOX** es el verdadero reemplazo moderno de Quipux para instituciones públicas, GADs, universidades y empresas que necesitan trazabilidad legal, eficiencia documental y cumplimiento normativo en Ecuador.
 
