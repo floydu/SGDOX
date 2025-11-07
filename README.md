@@ -107,8 +107,8 @@ SGDOX se ofrece bajo dos modelos:
 
 ---
 
-**SGDOX supera técnicamente a Quipux: lo moderniza, lo libera y lo nacionaliza.**  
-Una plataforma soberana, legal y moderna, pensada para el Ecuador que decide avanzar.
+**SGDOX** es el sistema de gestión documental que **marca el salto generacional frente a Quipux y sus derivados**, ofreciendo una nueva arquitectura enfocada en **eficiencia, seguridad y cumplimiento normativo.**  
+Una plataforma **moderna, escalable y construida con tecnología desarrollada en Ecuador.**
 
 ---
 
